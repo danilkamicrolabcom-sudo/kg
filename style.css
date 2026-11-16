@@ -239,8 +239,7 @@ label {
     flex-direction: column;
     justify-content: center;
     gap: 10px;
-    max-width: 170px;
-    width: 100%;
+    padding-left: 50px;
   }
   .chtot img {
     padding-right: 30px;
@@ -250,5 +249,17 @@ label {
   }
   .flex {
     padding-bottom: 20px;
+  }
+  .chekushonok{
+    padding-left: 40px;
+  }
+  .shrek{
+    padding-left:50px;
+  }
+  .typo_logotip{
+    padding-left: 20px;
+  }
+  .erere{
+    padding-left: 20px;
   }
 }
