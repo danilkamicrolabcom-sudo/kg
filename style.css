@@ -253,7 +253,8 @@ label {
   .chekushonok{
     padding-left: 40px;
   }
-  .shrek{
+  .shrek{    
+
     padding-left:50px;
   }
   .typo_logotip{
@@ -263,6 +264,7 @@ label {
     padding-left: 20px;
   }
     .fred{
-    padding-left: 40px;
+    display:flex; 
+      justify-content:center;
   }
 }
